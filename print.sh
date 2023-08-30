@@ -1,13 +1,13 @@
-echo hello world
+echo Hello World
 
-# red      31
-# greeen   32
-# yellow   33
-# blue     34
-# magenta  35
-# cyan     36
+# Red      31
+# Green    32
+# Yellow   33
+# Blue     34
+# Magenta  35
+# Cyan     36
 
-# syntax
+# Syntax
 # echo -e "\e[CODEmMESSAGE\e[0m"
 
 echo -e "\e[31mHello World\e[0m"
