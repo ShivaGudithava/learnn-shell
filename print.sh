@@ -1,4 +1,4 @@
-echp hello world
+echo hello world
 
 # red      31
 # greeen   32
