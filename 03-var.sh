@@ -1,4 +1,4 @@
-# Varibles
+# Variables
 a=10
 echo a is $a
 
@@ -11,6 +11,6 @@ Date=$(date)
 
 echo Today Date Is $Date
 
-## Arthmetic Substitution
-ADD =$(( 2+2))
+## Arithmetic Substitution
+ADD =$(( 2+2 ))
 echo ADD of 2+2 = $ADD
