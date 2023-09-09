@@ -12,5 +12,5 @@ Date=$(date)
 echo Today Date Is $Date
 
 ## Arithmetic Substitution
-ADD =$(( 2+2 ))
+ADD=$(( 2+2 ))
 echo ADD of 2+2 = $ADD
